@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fugees' Pras Michel found guilty of illegal lobbying",
+            "description": "The rapper is found guilty of taking money from a fugitive billionaire to influence US politics.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65353225",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C14/production/_129442727_735a274d7ba186ccd299216fcf140870380ef6d70_0_3680_24541000x667.jpg",
+            "publishedAt": "2023-04-26T21:22:16.7606866Z",
+            "content": "Ex-Fugees musician Prakazrel \"Pras\" Michel has been found guilty of 10 counts including conspiracy, after accepting money from a fugitive tycoon.\r\nProsecutors said Mr Michel, 50, received more than $… [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The Internet That Tucker Carlson Built",
+            "description": "The former Fox News host didn’t just fuel far-right politics in the US. His rants have fed conspiracy theorists and extremists all over the world.",
+            "url": "https://www.wired.com/story/tucker-carlson-fox-news-disinformation",
+            "urlToImage": "https://media.wired.com/photos/6447043b0a0f9ed43773eebe/191:100/w_1280,c_limit/The-Internet-Tucker-Carlson-Created-Business-1332866552.jpg",
+            "publishedAt": "2023-04-25T16:20:45Z",
+            "content": "There is, Droogan says, an implicit violence in the theory, particularly when its filtered through a US perspective. American mainstream media, and Fox in particular, gives platforms to people who us… [+3959 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement | CNN Politics",
+            "description": "A settlement has been reached in Dominion Voting Systems' defamation case against Fox News, the judge for the case announced. The network will pay more than $787 million to Dominion, a lawyer for the company said.",
+            "url": "http://us.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418164748-tapper-smile-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T21:00:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Arlette Saenz",
+            "title": "Tiny troubles: Toddler infiltrates White House grounds | CNN Politics",
+            "description": "A tiny intruder infiltrated White House grounds Tuesday, prompting a swift response from the US Secret Service.",
+            "url": "http://us.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418130032-01-white-house-toddler.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T17:38:16Z",
+            "content": "A tiny intruder infiltrated White House grounds Tuesday, prompting a swift response from the US Secret Service.\r\nAnthony Guglielmi, chief of communications for the Secret Service, said a toddler craw… [+920 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "The US economy could depend on McCarthy corralling his extremist Republican troops | CNN Politics",
+            "description": "Millions of Americans could face massive consequences unless Speaker Kevin McCarthy can navigate out of a debt trap he has set for President Joe Biden that is instead threatening to capture his House Republicans.",
+            "url": "http://us.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417222359-mccarthy-biden-debt-ceiling-042023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T15:59:31Z",
+            "content": "Millions of Americans could face massive consequences unless Speaker Kevin McCarthy can navigate out of a debt trap he has set for President Joe Biden that is instead threatening to capture his House… [+10866 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}

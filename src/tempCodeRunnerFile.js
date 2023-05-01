@@ -1,0 +1,1 @@
+ <Route exact path="/general" element={<News pageSize={15} country="in" category="general" />} />
